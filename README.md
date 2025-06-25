@@ -35,9 +35,8 @@ An enterprise-level solution designed to track products throughout the supply ch
 
 > This project was built as part of a real-world industrial automation initiative for a manufacturing company. Due to confidentiality, code and full documentation are not public.As a Project Support Specialist in Barcode Traceability Project, I contributed to developing an end-to-end barcode tracking system designed to improve supply chain visibility and product traceability. My responsibilities involved assisting with the integration of field equipment, middleware, QR code scanners, and data receivers into a cohesive system. The solution was built using Java, JavaScript, HTML, and CSS, SQL and deployed on a Tomcat server, with seamless connectivity to an SAP/ERP server for real-time data processing.
 
-I played a key role in ensuring the smooth functioning of the barcode traceability system, which optimized inventory management and enhanced overall operational efficiency. This project honed my skills in software integration, technical support, and working within enterprise-level applications to deliver impactful business outcomes.As a Project Support Specialist in Barcode Traceability Project, I contributed to developing an end-to-end barcode tracking system designed to improve supply chain visibility and product traceability. My responsibilities involved assisting with the integration of field equipment, middleware, QR code scanners, and data receivers into a cohesive system. The solution was built using Java, JavaScript, HTML, and CSS, SQL and deployed on a Tomcat server, with seamless connectivity to an SAP/ERP server for real-time data processing.
 
-I played a key role in ensuring the smooth functioning of the barcode traceability system, which optimized inventory management and enhanced overall operational efficiency. This project honed my skills in software integration, technical support, and working within enterprise-level applications to deliver impactful business outcomes.
+
 
 ---
 
