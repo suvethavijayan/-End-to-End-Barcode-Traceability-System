@@ -28,6 +28,9 @@ An enterprise-level solution designed to track products throughout the supply ch
 - Boosted operational efficiency for warehouse and production workflows
 
 ---
+## 🖼️ System Architecture
+
+![Barcode System Architecture](https://media.licdn.com/dms/image/v2/D562DAQFIWIRF_DOxFQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1729522210830?e=1751436000&v=beta&t=U9ccuCLoK-oi4mXihQVSgr6ACtjBazdb0Rc_I-uSeC8)
 
 ---
 
